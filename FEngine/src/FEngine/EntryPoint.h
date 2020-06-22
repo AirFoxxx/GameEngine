@@ -1,4 +1,5 @@
 #pragma once
+#include "../FEngine.h"
 
 #ifdef HZ_PLATFORM_WINDOWS
 
